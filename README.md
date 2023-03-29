@@ -37,6 +37,8 @@ Password:  `password`
 In project run following command to perform unit testing
 `php artisan test`
 
+## Roadmap, upcoming features
+[Roadmap](https://github.com/shivampandya24/Elephant-CMS/blob/main/ROADMAP.md)
 
 ## Known issues
 
